@@ -2,7 +2,7 @@
 #### Authors: Jędrzej Wydra, Łukasz Smaga, Szymon Matuszewski
 
 ## Short summary  
-Developed and validated statistical calibration methods in R using regression models, sampling-based error analysis, and MSE/MAPE optimization to improve model accuracy.  
+Developed and validated a statistical calibration method in R to improve insect age estimates in forensic biology. Built complete workflows (regression, resampling, MSE/MAPE optimization), achieving significant error reduction and delivering a reproducible analytical pipeline.
 
 ## Technical summary  
 Implemented advanced R workflows for data preprocessing, statistical calibration, and model comparison using OLS, RMA, and sampling-based approaches. Applied bootstrap-like simulations and iterative resampling to assess stability of calibration methods, leveraging ggplot2 for result visualization and MSE/MAPE metrics for quantitative model evaluation. Designed reproducible statistical pipelines to optimize parameter estimation without requiring explicit size-dependent models.  
